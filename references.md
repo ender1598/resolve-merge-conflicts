@@ -1,1 +1,5 @@
-Hmm I think I can create a conflict.
+Hmm I think I can resolve a conflict.
+
+# References
+
+* octocat 1 😈
